@@ -3,5 +3,6 @@
   {"val":"PBS","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"},
   {"val":"TRT","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"},
   {"val":"LD","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"},
-  {"val":"65.16","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}
+  {"val":"65.16","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"},
+ {"val":"hey","bg_color":"whe","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}
 ]
