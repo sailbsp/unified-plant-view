@@ -4,5 +4,5 @@
   {"row":{"val":"TRT","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}},
   {"row":{"val":"LD","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}}},
   {"col": {"row": {"val":"65.16","bg_color":"white","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}},
- {"row"{"val":"hey","bg_color":"whe","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}}}
+ {"row":{"val":"hey","bg_color":"whe","txt_color":"black","stroke_width":"2","stroke_color":"#000000","tv_gravity":"1","span":"0.16"}}}
 ]
