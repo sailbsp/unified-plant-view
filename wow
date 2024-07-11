@@ -8,11 +8,11 @@
                 "items": [
                     {
                         "name": "RMP-3",
-                        "bg_color": "#ff9966"
+                        "bg_color": "#26519d"
                     },
                     {
                         "name": "Total: 6784",
-                        "bg_color": "#ff9966"
+                        "bg_color": "#26519d"
                     }
                 ]
             },
@@ -72,11 +72,11 @@
                 "items": [
                     {
                         "name": "SP2",
-                        "bg_color": "#ff9966"
+                        "bg_color": "#26519d"
                     },
                     {
                         "name": "Total: 1013",
-                        "bg_color": "#ff9966"
+                        "bg_color": "#26519d"
                     }
                 ]
             },
@@ -112,7 +112,7 @@
                 "items": [
                     {
                         "name": "SMS-3",
-                        "bg_color": "#ff9966"
+                        "bg_color": "#26519d"
                     }
                 ]
             },
