@@ -1,10 +1,10 @@
 [
     {
-        "card-index":1,
-        "card-content" : [
+        "card_index":1,
+        "card_content" : [
             {
-                "card-type": "normal",
-                "card-data": [
+                "card_type": "normal",
+                "card_data": [
                     {
                         "name": "RMP3",
                         "subtitle": [
@@ -34,11 +34,11 @@
         ]
     },
    {
-    "card-index":2,
-    "card-content" :  [
+    "card_index":2,
+    "card_content" :  [
             {
-                "card-type": "round",
-                "card-data": [
+                "card_type": "round",
+                "card_data": [
                     {
                         "name": "SP2",
                         "subtitle": [
