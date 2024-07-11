@@ -40,24 +40,21 @@
                 "row": 3,
                 "items": [
                     {
-                        "name": "10",
-                        "bg_color": "#ffffff"
+                        "name": "10
                     },
                     {
-                        "name": "20",
-                        "bg_color": "#ffffff"
+                        "name": "20"
+                        
                     },
                     {
-                        "name": "534",
-                        "bg_color": "#ffffff"
+                        "name": "534"
+                        
                     },
                     {
-                        "name": "87",
-                        "bg_color": "#ffffff"
+                        "name": "87"
                     },
                     {
-                        "name": "123",
-                        "bg_color": "#ffffff"
+                        "name": "123"
                     }
                 ]
             }
@@ -71,8 +68,8 @@
                 "row": 1,
                 "items": [
                     {
-                        "name": "SP2",
-                        "bg_color": "#ffffff"
+                        "name": "SP2"
+                        
                     }
                 ]
             },
@@ -80,20 +77,16 @@
                 "row": 2,
                 "items": [
                     {
-                        "name": "M1",
-                        "bg_color": "#ffffff"
+                        "name": "M1"
                     },
                     {
-                        "name": "M2",
-                        "bg_color": "#ffffff"
+                        "name": "M2"
                     },
                     {
-                        "name": "M3",
-                        "bg_color": "#ffffff"
+                        "name": "M3"
                     },
                     {
-                        "name": "M4",
-                        "bg_color": "#ffffff"
+                        "name": "M4"
                     }
                 ]
             }
