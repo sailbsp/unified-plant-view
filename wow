@@ -1,64 +1,100 @@
 [
     {
-        "card_index":1,
-        "card_content" : [
+        "card_index": 1,
+        "card_type": "normal",
+        "card_content": [
             {
-                "card_type": "normal",
-                "card_data": [
+                "row": 1,
+                "items": [
                     {
                         "name": "RMP3",
-                        "subtitle": [
-                            "K1",
-                            "K2",
-                            "K3",
-                            "K4",
-                            "K5"
-                        ],
-                        "status": [
-                            "#ff3300",
-                            "#ff3300",
-                            "#00ff00",
-                            "#00ff00",
-                            "#00ff00"
-                        ],
-                        "value": [
-                            "20",
-                            "38",
-                            "12",
-                            "250",
-                            "123"
-                        ]
+                        "bg_color": "#ffffff"
+                    }
+                ]
+            },
+            {
+                "row": 2,
+                "items": [
+                    {
+                        "name": "K1",
+                        "bg_color": "#ff3300"
+                    },
+                    {
+                        "name": "K2",
+                        "bg_color": "#ff3300"
+                    },
+                    {
+                        "name": "K3",
+                        "bg_color": "#ff3300"
+                    },
+                    {
+                        "name": "K4",
+                        "bg_color": "#ff3300"
+                    },
+                    {
+                        "name": "K5",
+                        "bg_color": "#ff3300"
+                    }
+                ]
+            },
+            {
+                "row": 3,
+                "items": [
+                    {
+                        "name": "10",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "20",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "534",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "87",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "123",
+                        "bg_color": "#ffffff"
                     }
                 ]
             }
         ]
     },
-   {
-    "card_index":2,
-    "card_content" :  [
+    {
+        "card_index": 2,
+        "card_type": "round",
+        "card_content": [
             {
-                "card_type": "round",
-                "card_data": [
+                "row": 1,
+                "items": [
                     {
                         "name": "SP2",
-                        "subtitle": [
-                            "M1",
-                            "M2",
-                            "M3",
-                            "M4"
-                        ],
-                        "status": [
-                            "#ffffff",
-                            "#ffffff",
-                            "#ffffff",
-                            "#ffffff"
-                        ],
-                        "value": [
-                            " ",
-                            " ",
-                            " ",
-                            " "
-                        ]
+                        "bg_color": "#ffffff"
+                    }
+                ]
+            },
+            {
+                "row": 2,
+                "items": [
+                    {
+                        "name": "M1",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "M2",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "M3",
+                        "bg_color": "#ffffff"
+                    },
+                    {
+                        "name": "M4",
+                        "bg_color": "#ffffff"
                     }
                 ]
             }
