@@ -11,7 +11,8 @@
                         "bg_color": "#ff9966"
                     },
                     {
-                        "name": "Total: 6784"
+                        "name": "Total: 6784",
+                        "bg_color": "#ff9966"
                     }
                 ]
             },
@@ -74,7 +75,8 @@
                         "bg_color": "#ff9966"
                     },
                     {
-                        "name": "Total: 1013"
+                        "name": "Total: 1013",
+                        "bg_color": "#ff9966"
                     }
                 ]
             },
