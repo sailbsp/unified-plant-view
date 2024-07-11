@@ -1,6 +1,7 @@
 [
     {
-        "card-index": [
+        "card-index":1,
+        "card-content" : [
             {
                 "card-type": "normal",
                 "card-data": [
@@ -33,7 +34,8 @@
         ]
     },
    {
-        "card-index": [
+    "card-index":2,
+    "card-content" :  [
             {
                 "card-type": "round",
                 "card-data": [
