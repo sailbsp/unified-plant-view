@@ -7,7 +7,12 @@
                 "row": 1,
                 "items": [
                     {
-                        "name": "RMP-3"
+                        "name": "RMP-3",
+                        "bg_color": "#ffffcc"
+                    },
+                    {
+                        "name": "Total: 6784",
+                        "bg_color": "#ffffcc"
                     }
                 ]
             },
@@ -16,23 +21,23 @@
                 "items": [
                     {
                         "name": "K1",
-                        "bg_color": "#ff3300"
+                        "status": "#ff3300"
                     },
                     {
                         "name": "K2",
-                        "bg_color": "#66ff33"
+                        "status": "#66ff33"
                     },
                     {
                         "name": "K3",
-                        "bg_color": "#ff3300"
+                        "status": "#ff3300"
                     },
                     {
                         "name": "K4",
-                        "bg_color": "#ff3300"
+                        "status": "#ff3300"
                     },
                     {
                         "name": "K5",
-                        "bg_color": "#ff3300"
+                        "status": "#ff3300"
                     }
                 ]
             },
@@ -44,11 +49,9 @@
                     },
                     {
                         "name": "20"
-                        
                     },
                     {
                         "name": "534"
-                        
                     },
                     {
                         "name": "87"
@@ -68,8 +71,12 @@
                 "row": 1,
                 "items": [
                     {
-                        "name": "SP2"
-                        
+                        "name": "SP2",
+                        "bg_color": "#ffffcc"
+                    },
+                    {
+                        "name": "Total: 1013",
+                        "bg_color": "#ffffcc"
                     }
                 ]
             },
@@ -77,16 +84,20 @@
                 "row": 2,
                 "items": [
                     {
-                        "name": "M1"
+                        "name": "M1",
+                        "status": "#ff3300"
                     },
                     {
-                        "name": "M2"
+                        "name": "M2",
+                        "status": "#66ff33"
                     },
                     {
-                        "name": "M3"
+                        "name": "M3",
+                        "status": "#ff3300"
                     },
                     {
-                        "name": "M4"
+                        "name": "M4",
+                        "status": "#66ff33"
                     }
                 ]
             }
