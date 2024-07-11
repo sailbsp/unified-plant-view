@@ -1,6 +1,6 @@
 [
     {
-        "card_index": "RMP-3",
+        "card_index": "RMP3",
         "card_type": "normal",
         "card_content": [
             {
@@ -98,6 +98,143 @@
                     {
                         "name": "M4",
                         "status": "#66ff33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "card_index": "SP2",
+        "card_type": "round",
+        "card_content": [
+            {
+                "row": 1,
+                "items": [
+                    {
+                        "name": "SMS-3",
+                        "bg_color": "#ff9966"
+                    }
+                ]
+            },
+            {
+                "row": 2,
+                "items": [
+                    {
+                        "name": "BOF-1(4)",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "BOF-2(4)",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "BOF-3(4)",
+                        "status": "#ff3300"
+                    }
+                ]
+            },
+            {
+                "row": 3,
+                "items": [
+                    {
+                        "name": "CK1-1",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CK1-2",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CK1-3",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CK1-4",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "CK1-5",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "CK1-6",
+                        "status": "#ff3300"
+                    }
+                ]
+            },
+            {
+                "row": 4,
+                "items": [
+                    {
+                        "name": "CK2-1",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CK2-2",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CK2-3",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CK2-4",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "CK2-5",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "CK2-6",
+                        "status": "#ff3300"
+                    }
+                ]
+            },
+            {
+                "row": 5,
+                "items": [
+                    {
+                        "name": "CV1-1",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CV1-2",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CV1-3",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CV1-4",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "CV1-5",
+                        "status": "#66ff33"
+                    },
+                    {
+                        "name": "CV1-6",
+                        "status": "#ff3300"
+                    }
+                ]
+            },
+            {
+                "row": 6,
+                "items": [
+                    {
+                        "name": "CV2-1",
+                        "status": "#ff3300"
+                    },
+                    {
+                        "name": "CV2-2",
+                        "status": "#66ff33"
+                    },
+                    
+                    {
+                        "name": "CV2-3",
+                        "status": "#ff3300"
                     }
                 ]
             }
