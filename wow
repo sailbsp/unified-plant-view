@@ -1,6 +1,6 @@
 [
     {
-        "card_index": 1,
+        "card_index": "RMP3",
         "card_type": "normal",
         "card_content": [
             {
@@ -21,7 +21,7 @@
                     },
                     {
                         "name": "K2",
-                        "bg_color": "#ff3300"
+                        "bg_color": "#66ff33"
                     },
                     {
                         "name": "K3",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "card_index": 2,
+        "card_index": "SP2",
         "card_type": "round",
         "card_content": [
             {
