@@ -106,14 +106,8 @@
                     {
                         "name": "SP2",
                         "bg_color": "#2a756c",
-                        "text_color": "#000000",
-                        "icontrend": "yes",
-                        "trenddetails": [
-                            {
-                                "color": "#FFFFFF",
-                                "url": ""
-                            }
-                        ]
+                        "text_color": "#000000"
+                       
                     },
                     {
                         "name": "Total: 1013",
@@ -160,13 +154,7 @@
                         "name": "SMS-3",
                         "bg_color": "#2a756c",
                         "text_color": "#000000",
-                        "icontrend": "yes",
-                        "trenddetails": [
-                            {
-                                "color": "#FFFFFF",
-                                "url": ""
-                            }
-                        ],
+                       
                         "icondown": "yes",
                         "downdetails": [
                             {
