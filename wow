@@ -231,10 +231,17 @@
                         "name": "CV2-2",
                         "status": "#66ff33"
                     },
-                    
                     {
                         "name": "CV2-3",
                         "status": "#ff3300"
+                    }
+                ]
+            },
+            {
+                "row": 7,
+                "items": [
+                    {
+                        "name": "Furnace Capital repair"
                     }
                 ]
             }
