@@ -1,6 +1,6 @@
 [
     {
-        "card_index": "RMP-3",
+        "card_index": "RMP3",
         "card_type": "normal",
         "card_content": [
             {
@@ -100,7 +100,7 @@
                         "text_color": "#000000"
                     }
                 ]
-            },
+            }
         ]
     },
     {
