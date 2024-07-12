@@ -9,7 +9,24 @@
                     {
                         "name": "RMP-3",
                         "bg_color": "#2a756c",
-                        "text_color": "#000000"
+                        "text_color": "#000000",
+                        "icon": [
+                            {
+                                "type": "eye",
+                                "color": "#000000",
+                                "url": ""
+                            },
+                            {
+                                "type": "trend",
+                                "color": "#000000",
+                                "url": ""
+                            },
+                            {
+                                "type": "down",
+                                "color": "#000000",
+                                "url": ""
+                            }
+                        ]
                     },
                     {
                         "name": "Total: 6784",
@@ -85,7 +102,19 @@
                     {
                         "name": "SP2",
                         "bg_color": "#2a756c",
-                        "text_color": "#000000"
+                        "text_color": "#000000",
+                        "icon": [
+                            {
+                                "type": "eye",
+                                "color": "#000000",
+                                "url": ""
+                            },
+                            {
+                                "type": "up",
+                                "color": "#000000",
+                                "url": ""
+                            }
+                        ]
                     },
                     {
                         "name": "Total: 1013",
@@ -122,7 +151,7 @@
         ]
     },
     {
-        "card_index": "SP2",
+        "card_index": "SMS-3",
         "card_type": "round",
         "card_content": [
             {
@@ -131,7 +160,19 @@
                     {
                         "name": "SMS-3",
                         "bg_color": "#2a756c",
-                        "text_color": "#000000"
+                        "text_color": "#000000",
+                        "icon": [
+                            {
+                                "type": "down",
+                                "color": "#000000",
+                                "url": ""
+                            },
+                            {
+                                "type": "trend",
+                                "color": "#000000",
+                                "url": ""
+                            }
+                        ]
                     }
                 ]
             },
@@ -286,7 +327,7 @@
                     {
                         "name": "Furnace Capital repair",
                         "text_color": "ff3300",
-                        "blink_color":"66ff33"
+                        "blink_color": "66ff33"
                     }
                 ]
             }
