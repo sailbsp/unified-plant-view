@@ -10,85 +10,89 @@
                         "name": "RMP-3",
                         "bg_color": "#2a756c",
                         "text_color": "#000000",
-                        "icon": [
+                        "iconeye": "yes",
+                        "eyedetails": [
                             {
-                                "type": "eye",
                                 "color": "#000000",
                                 "url": ""
-                            },
+                            }
+                        ],
+                        "icontrend": "yes",
+                        "trenddetails": [
                             {
-                                "type": "trend",
                                 "color": "#000000",
                                 "url": ""
-                            },
+                            }
+                        ],
+                        "iconup": "yes",
+                        "updetails": [
                             {
-                                "type": "down",
                                 "color": "#000000",
                                 "url": ""
                             }
                         ]
-                    },
-                    {
-                        "name": "Total: 6784",
-                        "bg_color": "#2a756c",
-                        "text_color": "#000000"
                     }
                 ]
             },
             {
-                "row": 2,
-                "items": [
-                    {
-                        "name": "K1",
-                        "status": "#ff3300",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "K2",
-                        "status": "#66ff33",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "K3",
-                        "status": "#ff3300",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "K4",
-                        "status": "#ff3300",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "K5",
-                        "status": "#ff3300",
-                        "text_color": "#000000"
-                    }
-                ]
+                "name": "Total: 6784",
+                "bg_color": "#2a756c",
+                "text_color": "#000000"
+            }
+        ]
+    },
+    {
+        "row": 2,
+        "items": [
+            {
+                "name": "K1",
+                "status": "#ff3300",
+                "text_color": "#000000"
             },
             {
-                "row": 3,
-                "items": [
-                    {
-                        "name": "10",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "20",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "534",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "87",
-                        "text_color": "#000000"
-                    },
-                    {
-                        "name": "123",
-                        "text_color": "#000000"
-                    }
-                ]
+                "name": "K2",
+                "status": "#66ff33",
+                "text_color": "#000000"
+            },
+            {
+                "name": "K3",
+                "status": "#ff3300",
+                "text_color": "#000000"
+            },
+            {
+                "name": "K4",
+                "status": "#ff3300",
+                "text_color": "#000000"
+            },
+            {
+                "name": "K5",
+                "status": "#ff3300",
+                "text_color": "#000000"
+            }
+        ]
+    },
+    {
+        "row": 3,
+        "items": [
+            {
+                "name": "10",
+                "text_color": "#000000"
+            },
+            {
+                "name": "20",
+                "text_color": "#000000"
+            },
+            {
+                "name": "534",
+                "text_color": "#000000"
+            },
+            {
+                "name": "87",
+                "text_color": "#000000"
+            },
+            {
+                "name": "123",
+                "text_color": "#000000"
             }
         ]
     },
@@ -103,14 +107,9 @@
                         "name": "SP2",
                         "bg_color": "#2a756c",
                         "text_color": "#000000",
-                        "icon": [
+                        "icontrend": "yes",
+                        "trenddetails": [
                             {
-                                "type": "eye",
-                                "color": "#000000",
-                                "url": ""
-                            },
-                            {
-                                "type": "up",
                                 "color": "#000000",
                                 "url": ""
                             }
@@ -161,14 +160,16 @@
                         "name": "SMS-3",
                         "bg_color": "#2a756c",
                         "text_color": "#000000",
-                        "icon": [
+                        "icontrend": "yes",
+                        "trenddetails": [
                             {
-                                "type": "down",
                                 "color": "#000000",
                                 "url": ""
-                            },
+                            }
+                        ],
+                        "icondown": "yes",
+                        "downdetails": [
                             {
-                                "type": "trend",
                                 "color": "#000000",
                                 "url": ""
                             }
