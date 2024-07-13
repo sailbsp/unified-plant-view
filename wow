@@ -1,3 +1,4 @@
+
 [
     {
         "card_index": "RMP3",        
@@ -57,14 +58,19 @@
                         "iconup": "yes",
                         "updetails": [
                             {
-                                "color": "#66ff33",
-                                "url": ""
+                                "color": "#66ff33"
                             }
                         ]
                     },
                     {
                         "name": "20",
-                        "text_color": "#000000"
+                        "text_color": "#000000",
+                        "icondown": "yes",
+                        "updetails": [
+                            {
+                                "color": "#ff3300"
+                            }
+                        ]
                     },
                     {
                         "name": "534",
@@ -84,7 +90,6 @@
     },
     {
         "card_index": "SP2",
-        "card_type": "round",
         "card_content": [
             {
                 "row": 1,
@@ -131,7 +136,6 @@
     },
     {
         "card_index": "SMS-3",
-        "card_type": "round",
         "card_content": [
             {
                 "row": 1,
@@ -139,15 +143,7 @@
                     {
                         "name": "SMS-3",
                         "bg_color": "#2a915f",
-                        "text_color": "#FFFFFF",
-                       
-                        "icondown": "yes",
-                        "downdetails": [
-                            {
-                                "color": "#ff3300",
-                                "url": ""
-                            }
-                        ]
+                        "text_color": "#FFFFFF"
                     }
                 ]
             },
@@ -301,8 +297,7 @@
                 "items": [
                     {
                         "name": "Furnace Capital repair",
-                        "text_color": "#ff3300",
-                        "blink_color": "#66ff33"
+                        "text_color": "#ff3300"
                     }
                 ]
             }
