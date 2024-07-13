@@ -315,8 +315,8 @@
                 "items": [
                     {
                         "name": "Furnace Capital repair",
-                        "text_color": "ff3300",
-                        "blink_color": "66ff33"
+                        "text_color": "#ff3300",
+                        "blink_color": "#66ff33"
                     }
                 ]
             }
