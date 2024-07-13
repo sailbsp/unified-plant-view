@@ -45,7 +45,14 @@
                     {
                         "name": "K1",
                         "status": "#ff3300",
-                        "text_color": "#000000"
+                        "text_color": "#000000",
+                        "iconeye": "",
+                        "eyedetails": [
+                            {
+                                "color": "#FFFFFF",
+                                "url": "https://imagecolorpicker.com/"
+                            }
+                        ]
                     },
                     {
                         "name": "K2",
