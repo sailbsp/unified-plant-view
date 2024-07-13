@@ -9,25 +9,25 @@
                     {
                         "name": "RMP-3",
                         "bg_color": "#2a915f",
-                        "text_color": "#000000",
+                        "text_color": "#FFFFFF",
                         "iconeye": "yes",
                         "eyedetails": [
                             {
                                 "color": "#FFFFFF",
-                                "url": ""
+                                "url": "https://imagecolorpicker.com/"
                             }
                         ],
                         "icontrend": "yes",
                         "trenddetails": [
                             {
-                                "color": "#ff3300",
+                                "color": "#FFFFFF",
                                 "url": ""
                             }
                         ],
                         "iconup": "yes",
                         "updetails": [
                             {
-                                "color": "#FFFFFF",
+                                "color": "#66ff33",
                                 "url": ""
                             }
                         ]
@@ -106,7 +106,7 @@
                     {
                         "name": "SP2",
                         "bg_color": "#2a915f",
-                        "text_color": "#000000"
+                        "text_color": "#FFFFFF"
                        
                     },
                     {
@@ -153,12 +153,12 @@
                     {
                         "name": "SMS-3",
                         "bg_color": "#2a915f",
-                        "text_color": "#000000",
+                        "text_color": "#FFFFFF",
                        
                         "icondown": "yes",
                         "downdetails": [
                             {
-                                "color": "#FFFFFF",
+                                "color": "#ff3300",
                                 "url": ""
                             }
                         ]
