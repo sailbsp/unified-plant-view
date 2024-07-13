@@ -1,7 +1,6 @@
 [
     {
-        "card_index": "RMP-3",
-        "card_type": "normal",
+        "card_index": "RMP3",        
         "card_content": [
             {
                 "row": 1,
@@ -9,28 +8,8 @@
                     {
                         "name": "RMP-3",
                         "bg_color": "#2a915f",
-                        "text_color": "#FFFFFF",
-                        "iconeye": "yes",
-                        "eyedetails": [
-                            {
-                                "color": "#FFFFFF",
-                                "url": "https://imagecolorpicker.com/"
-                            }
-                        ],
-                        "icontrend": "yes",
-                        "trenddetails": [
-                            {
-                                "color": "#FFFFFF",
-                                "url": ""
-                            }
-                        ],
-                        "iconup": "yes",
-                        "updetails": [
-                            {
-                                "color": "#66ff33",
-                                "url": ""
-                            }
-                        ]
+                        "text_color": "#FFFFFF"                        
+                        
                     },
                     {
                         "name": "Total: 6784",
@@ -45,14 +24,7 @@
                     {
                         "name": "K1",
                         "status": "#ff3300",
-                        "text_color": "#000000",
-                        "iconeye": "",
-                        "eyedetails": [
-                            {
-                                "color": "#2a915f",
-                                "url": "https://imagecolorpicker.com/"
-                            }
-                        ]
+                        "text_color": "#000000"
                     },
                     {
                         "name": "K2",
@@ -81,7 +53,14 @@
                 "items": [
                     {
                         "name": "10",
-                        "text_color": "#000000"
+                        "text_color": "#000000",
+                        "iconup": "yes",
+                        "updetails": [
+                            {
+                                "color": "#66ff33",
+                                "url": ""
+                            }
+                        ]
                     },
                     {
                         "name": "20",
