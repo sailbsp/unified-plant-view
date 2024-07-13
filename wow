@@ -46,7 +46,7 @@
                         "name": "K1",
                         "status": "#ff3300",
                         "text_color": "#000000",
-                        "iconeye": "null",
+                        "iconeye": "",
                         "eyedetails": [
                             {
                                 "color": "#2a915f",
