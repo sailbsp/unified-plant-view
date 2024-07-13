@@ -46,10 +46,10 @@
                         "name": "K1",
                         "status": "#ff3300",
                         "text_color": "#000000",
-                        "iconeye": "",
+                        "iconeye": "null",
                         "eyedetails": [
                             {
-                                "color": "#FFFFFF",
+                                "color": "#2a915f",
                                 "url": "https://imagecolorpicker.com/"
                             }
                         ]
