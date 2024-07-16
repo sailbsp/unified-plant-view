@@ -9,7 +9,8 @@
                     {
                         "name": "RMP-3",
                         "bg_color": "#2a915f",
-                        "text_color": "#FFFFFF"                        
+                        "text_color": "#FFFFFF"  ,
+"status":"hello"
                         
                     },
                     {
