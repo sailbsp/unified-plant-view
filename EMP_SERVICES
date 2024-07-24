@@ -1,0 +1,16 @@
+[
+    {
+        "emp_service": [
+            {
+                "name": "Birthdays",
+                "imageurl": "http://emdapp.sail-bhilaisteel.com:8080/upv7/es_birthday.jpeg",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/bday.jsp"
+            },
+            {
+                "name": "Telephone Directory",
+                "imageurl": "http://emdapp.sail-bhilaisteel.com:8080/upv7/es_directory.jpeg",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/bday.jsp"
+            }
+        ]
+    }
+]
