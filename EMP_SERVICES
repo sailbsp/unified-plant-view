@@ -7,10 +7,39 @@
                 "imageurl": "http://emdapp.sail-bhilaisteel.com:8080/upv7/es_birthday.jpeg",
                 "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/bday.jsp"
             },
-            {"directory": "yes",
+            {
+                "directory": "yes",
                 "name": "Telephone Directory",
                 "imageurl": "http://emdapp.sail-bhilaisteel.com:8080/upv7/es_directory.jpeg",
-                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/bday.jsp"
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/directory_debug.jsp"
+            }
+        ]
+    },
+    {
+        "real_time_data": [
+            {
+                "name": " Plant Overview",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/plant_ff_glance.jsp"
+            },
+            {
+                "name": " BF Overview",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/plant_ff_glance.jsp"
+            },
+            {
+                "name": " Mills",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/plant_ff_glance.jsp"
+            },
+            {
+                "name": " SMS-2",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/plant_ff_glance.jsp"
+            },
+            {
+                "name": " SMS-3",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/plant_ff_glance.jsp"
+            },
+            {
+                "name": " OP2",
+                "api": "http://emdapp.sail-bhilaisteel.com:8080/upv7/plant_ff_glance.jsp"
             }
         ]
     }
