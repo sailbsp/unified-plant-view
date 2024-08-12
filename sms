@@ -1,0 +1,14 @@
+[
+    {
+        "buttons": "yes",
+        "title": "sms_real_time_data"
+    },
+    {
+        "name": "SMS-2",
+        "api": "http://emdapp.sail-bhilaisteel.com:8080/upv_ff/menu_sms2.jsp"
+    },
+    {
+        "name": "SMS-3",
+        "api": "http://emdapp.sail-bhilaisteel.com:8080/upv_ff/menu_sms3.jsp"
+    }
+]
